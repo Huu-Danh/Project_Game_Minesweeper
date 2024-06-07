@@ -1,0 +1,72 @@
+Game History:
+Date: 2024-05-10
+Time: 01:05:46.125055800
+Number of clicks:80
+Score: 7111
+------------------------------------
+Game History:
+Date: 2024-05-10
+Time: 01:30:05.262179500
+Number of clicks:80
+Score: 7111
+------------------------------------
+Game History:
+Date: 2024-06-04
+Time: 09:26:42.036762600
+Number of clicks:8
+Score: 355
+------------------------------------
+Game History:
+Date: 2024-06-04
+Time: 09:44:27.197081700
+Number of clicks:1
+Score: 9
+------------------------------------
+Game History:
+Date: 2024-06-04
+Time: 09:45:17.106877700
+Number of clicks:0
+Score: 0
+------------------------------------
+Game History:
+Date: 2024-06-04
+Time: 09:45:26.023462
+Number of clicks:2
+Score: 3
+------------------------------------
+Game History:
+Date: 2024-06-04
+Time: 09:52:32.730378500
+Number of clicks:0
+Score: 0
+------------------------------------
+Game History:
+Date: 2024-06-04
+Time: 10:02:54.777739700
+Number of clicks:101
+Score: 7234
+------------------------------------
+Game History:
+Date: 2024-06-04
+Time: 10:13:19.423092300
+Number of clicks:1
+Score: 9
+------------------------------------
+Game History:
+Date: 2024-06-04
+Time: 10:30:23.468633700
+Number of clicks:0
+Score: 0
+------------------------------------
+Game History:
+Date: 2024-06-04
+Time: 10:30:50.033977400
+Number of clicks:0
+Score: 0
+------------------------------------
+Game History:
+Date: 2024-06-04
+Time: 10:30:56.753196300
+Number of clicks:1
+Score: 2
+------------------------------------
